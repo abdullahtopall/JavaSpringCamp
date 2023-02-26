@@ -1,2 +1,2 @@
 # JavaSpringDevs
- kodlama.io (2022) Yazılım Geliştirici Yetiştirme Kampı - JAVA
+ kodlama.io (2022) Yazılım Geliştirici Yetiştirme Kampı - JAVA Homeworks
